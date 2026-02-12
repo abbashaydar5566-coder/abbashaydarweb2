@@ -1,0 +1,24 @@
+body {
+    margin: 2;
+    background-image: url(images/background.jpg);
+}
+
+ h1 {
+color: rgb(13, 13, 19);
+background-color: rgb(244, 241, 238);
+
+}
+
+dl dl {
+    color: rgb(0, 0, 0);
+}
+dl dt {
+    color: rgb(201, 11, 11);
+}
+
+
+.video html {
+    display: flex;
+    justify-content: center;
+}
+
